@@ -1,0 +1,5 @@
+google-cloud-pipeline-components==1.0.8
+kfp==1.8.12
+requests-toolbelt==0.10.1
+appengine-python-standard
+google-cloud-aiplatform
